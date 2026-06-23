@@ -8,10 +8,10 @@
 class Atmosphere < Formula
   desc "CLI for the Atmosphere real-time Java framework — run samples, scaffold projects"
   homepage "https://github.com/Atmosphere/atmosphere"
-  url "https://github.com/Atmosphere/atmosphere/archive/refs/tags/atmosphere-4.0.55.tar.gz"
-  sha256 "6e234ab3115e371efa750b1f0a2e0afcb65221f3d79cb86df175088c89a0f641"
+  url "https://github.com/Atmosphere/atmosphere/archive/refs/tags/atmosphere-4.0.56.tar.gz"
+  sha256 "df086924aa616a575a03702b67564d0950b179ae8284f32b566f1b6ffe79db06"
   license "Apache-2.0"
-  version "4.0.55"
+  version "4.0.56"
 
   depends_on "openjdk@21"
 
